@@ -1,0 +1,39 @@
+{
+    "name": "material-colors",
+    "displayName": "Material Colors",
+    "description": "Code snippets for hex values for Material colours",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nabeelvalley/MaterialColorVSCodeExtension.git"
+    },
+    "keywords": [
+        "color",
+        "material",
+        "colour",
+        "colours",
+        "css",
+        "hex",
+        "snippet"
+    ],
+    "author": "Nabeel Valley",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/nabeelvalley/MaterialColorVSCodeExtension/issues"
+    },
+    "homepage": "https://github.com/nabeelvalley/MaterialColorVSCodeExtension#readme",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
