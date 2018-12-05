@@ -33,8 +33,7 @@
     "contributes": {
         "snippets": [
             {
-                "language": "",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/colors.code-snippets"
             }
         ]
     }
