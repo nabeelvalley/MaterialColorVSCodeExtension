@@ -2,10 +2,11 @@
     "name": "material-colors",
     "displayName": "Material Colors",
     "description": "Code snippets for hex values for Material colours",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "icon":"icon.png",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nabeelvalley/MaterialColorVSCodeExtension.git"
+        "url": "https://github.com/nabeelvalley/MaterialColorVSCodeExtension.git"
     },
     "keywords": [
         "color",
