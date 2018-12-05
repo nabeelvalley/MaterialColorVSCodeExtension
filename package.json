@@ -17,6 +17,7 @@
         "snippet"
     ],
     "author": "Nabeel Valley",
+    "publisher":"NabeelValley",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/nabeelvalley/MaterialColorVSCodeExtension/issues"
