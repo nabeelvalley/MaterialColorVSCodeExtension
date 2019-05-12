@@ -2,7 +2,7 @@
     "name": "material-colors",
     "displayName": "Material Colors",
     "description": "Code snippets for hex values for Material colours",
-    "version": "1.0.2",
+    "version": "1.1.2",
     "icon": "icon.png",
     "repository": {
         "type": "git",
